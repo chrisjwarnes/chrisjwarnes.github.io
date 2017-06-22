@@ -1,0 +1,29 @@
+{
+  "name": "chrisjwarnes.github.io",
+  "version": "1.0.0",
+  "description": "Personal Github Pages site",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjwarnes/chrisjwarnes.github.io.git"
+  },
+  "author": "Chris Warnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisjwarnes/chrisjwarnes.github.io/issues"
+  },
+  "homepage": "https://chrisjwarnes.github.io/",
+  "devDependencies": {
+    "event-stream": "^3.3.4",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "foundation-sites": "6.3.1"
+  }
+}

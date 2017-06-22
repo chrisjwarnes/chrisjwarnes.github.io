@@ -1,0 +1,47 @@
+
+html, body {
+    margin:0;
+    padding:0;
+}
+section {
+    height: 100vh;
+    background-color: #000000;
+    background-image: url('/dist/images/chris-warnes.jpg');
+    background-size: cover;
+    background-position: 350px 0;
+    position:relative;
+
+    .split {
+        position:absolute;
+        width:60%;
+        margin-left:-200px;
+        height: 100vh;
+        transform: skewX(-20deg) skewY(0deg);
+        background: #1aad9c;
+    }
+    .content {
+        position:absolute;
+        transform: skewX(20deg) skewY(0deg);
+        color:#fff;
+        left:50px;
+        //background-color: red;
+        width: 50vw;
+        padding: 100px 150px;
+        //text-align: center;
+    }
+}
+
+h1 {
+    font-size: 80px;
+    margin-bottom: 10px;
+}
+h2 {
+        font-size: 40px;
+    //margin-bottom: 10px;
+}
+
+.line {
+    display:block;
+    border-bottom: 1px solid #fff;
+    margin-right:100px;
+}

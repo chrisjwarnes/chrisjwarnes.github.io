@@ -1,0 +1,11 @@
+{
+  "sass": {
+    "source": [ "./_assets/scss/**/*.scss" ],
+    "destination": "./dist/css"
+  },
+  "js": {
+    "watch": [ "./_assets/js/**/*.js", "./_assets/js/*.json" ],
+    "source": "./_assets/js/**/*.bundle.json",
+    "destination": "./dist/js"
+  }
+}
