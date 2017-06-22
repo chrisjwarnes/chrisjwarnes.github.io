@@ -18,17 +18,11 @@ section {
     -webkit-transform: skewX(-20deg) skewY(0deg);
     -ms-transform: skewX(-20deg) skewY(0deg);
     transform: skewX(-20deg) skewY(0deg);
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e9cbc+9,1aad9c+87 */
     background: #1e9cbc;
     /* Old browsers */
-    /* FF3.6-15 */
     background: -webkit-linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%);
-    /* Chrome10-25,Safari5.1-6 */
     background: -o-linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%);
-    background: linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e9cbc', endColorstr='#1aad9c',GradientType=1 );
-    /* IE6-9 fallback on horizontal gradient */ }
+    background: linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%); }
   section .content {
     position: absolute;
     -webkit-transform: skewX(20deg) skewY(0deg);
