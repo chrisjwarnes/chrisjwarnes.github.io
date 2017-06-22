@@ -20,9 +20,9 @@ section {
     transform: skewX(-20deg) skewY(0deg);
     background: #1e9cbc;
     /* Old browsers */
-    background: -webkit-linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%);
-    background: -o-linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%);
-    background: linear-gradient(45deg, #1e9cbc 9%, #1aad9c 87%); }
+    background: -webkit-linear-gradient(45deg, #1e9cbc 16%, #1aad9c 78%);
+    background: -o-linear-gradient(45deg, #1e9cbc 16%, #1aad9c 78%);
+    background: linear-gradient(45deg, #1e9cbc 16%, #1aad9c 78%); }
   section .content {
     position: absolute;
     -webkit-transform: skewX(20deg) skewY(0deg);
