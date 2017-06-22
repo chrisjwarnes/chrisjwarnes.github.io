@@ -18,6 +18,7 @@ section {
         margin-left:-200px;
         height: 100vh;
         transform: skewX(-20deg) skewY(0deg);
+        //http://colorzilla.com/gradient-editor/#1e9cbc+16,1aad9c+78
         background: #1e9cbc; /* Old browsers */
         background: linear-gradient(45deg,  #1e9cbc 16%,#1aad9c 78%);
     }
